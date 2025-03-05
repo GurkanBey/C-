@@ -1,0 +1,10 @@
+C:\Users\Parlak\Desktop\C#\Proje4\bin\Debug\Proje4.exe.config
+C:\Users\Parlak\Desktop\C#\Proje4\bin\Debug\Proje4.exe
+C:\Users\Parlak\Desktop\C#\Proje4\bin\Debug\Proje4.pdb
+C:\Users\Parlak\Desktop\C#\Proje4\obj\Debug\Proje4.csproj.AssemblyReference.cache
+C:\Users\Parlak\Desktop\C#\Proje4\obj\Debug\Proje4.Form1.resources
+C:\Users\Parlak\Desktop\C#\Proje4\obj\Debug\Proje4.Properties.Resources.resources
+C:\Users\Parlak\Desktop\C#\Proje4\obj\Debug\Proje4.csproj.GenerateResource.cache
+C:\Users\Parlak\Desktop\C#\Proje4\obj\Debug\Proje4.csproj.CoreCompileInputs.cache
+C:\Users\Parlak\Desktop\C#\Proje4\obj\Debug\Proje4.exe
+C:\Users\Parlak\Desktop\C#\Proje4\obj\Debug\Proje4.pdb
