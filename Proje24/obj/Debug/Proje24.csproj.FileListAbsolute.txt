@@ -1,0 +1,10 @@
+C:\Users\Parlak\Desktop\C#\Proje24\bin\Debug\Proje24.exe.config
+C:\Users\Parlak\Desktop\C#\Proje24\bin\Debug\Proje24.exe
+C:\Users\Parlak\Desktop\C#\Proje24\bin\Debug\Proje24.pdb
+C:\Users\Parlak\Desktop\C#\Proje24\obj\Debug\Proje24.csproj.AssemblyReference.cache
+C:\Users\Parlak\Desktop\C#\Proje24\obj\Debug\Proje24.Form1.resources
+C:\Users\Parlak\Desktop\C#\Proje24\obj\Debug\Proje24.Properties.Resources.resources
+C:\Users\Parlak\Desktop\C#\Proje24\obj\Debug\Proje24.csproj.GenerateResource.cache
+C:\Users\Parlak\Desktop\C#\Proje24\obj\Debug\Proje24.csproj.CoreCompileInputs.cache
+C:\Users\Parlak\Desktop\C#\Proje24\obj\Debug\Proje24.exe
+C:\Users\Parlak\Desktop\C#\Proje24\obj\Debug\Proje24.pdb
