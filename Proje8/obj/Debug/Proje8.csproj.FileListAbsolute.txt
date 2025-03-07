@@ -1,0 +1,10 @@
+C:\Users\Parlak\Desktop\C#\Proje8\bin\Debug\Proje8.exe.config
+C:\Users\Parlak\Desktop\C#\Proje8\bin\Debug\Proje8.exe
+C:\Users\Parlak\Desktop\C#\Proje8\bin\Debug\Proje8.pdb
+C:\Users\Parlak\Desktop\C#\Proje8\obj\Debug\Proje8.csproj.AssemblyReference.cache
+C:\Users\Parlak\Desktop\C#\Proje8\obj\Debug\Proje8.Form1.resources
+C:\Users\Parlak\Desktop\C#\Proje8\obj\Debug\Proje8.Properties.Resources.resources
+C:\Users\Parlak\Desktop\C#\Proje8\obj\Debug\Proje8.csproj.GenerateResource.cache
+C:\Users\Parlak\Desktop\C#\Proje8\obj\Debug\Proje8.csproj.CoreCompileInputs.cache
+C:\Users\Parlak\Desktop\C#\Proje8\obj\Debug\Proje8.exe
+C:\Users\Parlak\Desktop\C#\Proje8\obj\Debug\Proje8.pdb
