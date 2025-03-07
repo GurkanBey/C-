@@ -1,0 +1,10 @@
+C:\Users\Parlak\Desktop\C#\Proje19\bin\Debug\Proje19.exe.config
+C:\Users\Parlak\Desktop\C#\Proje19\bin\Debug\Proje19.exe
+C:\Users\Parlak\Desktop\C#\Proje19\bin\Debug\Proje19.pdb
+C:\Users\Parlak\Desktop\C#\Proje19\obj\Debug\Proje19.csproj.AssemblyReference.cache
+C:\Users\Parlak\Desktop\C#\Proje19\obj\Debug\Proje19.Form1.resources
+C:\Users\Parlak\Desktop\C#\Proje19\obj\Debug\Proje19.Properties.Resources.resources
+C:\Users\Parlak\Desktop\C#\Proje19\obj\Debug\Proje19.csproj.GenerateResource.cache
+C:\Users\Parlak\Desktop\C#\Proje19\obj\Debug\Proje19.csproj.CoreCompileInputs.cache
+C:\Users\Parlak\Desktop\C#\Proje19\obj\Debug\Proje19.exe
+C:\Users\Parlak\Desktop\C#\Proje19\obj\Debug\Proje19.pdb
